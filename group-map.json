@@ -20886,7 +20886,7 @@
               "HASC_1": "ES.AN",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "4A",
+              "GROUP": "4A",
               "GROUP_2": "4B"
             }
           },
@@ -20914,7 +20914,7 @@
               "HASC_1": "ES.AR",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "2B"
+              "GROUP": "2B"
             }
           },
           {
@@ -20946,7 +20946,7 @@
               "HASC_1": "ES.CB",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "2A"
+              "GROUP": "2A"
             }
           },
           {
@@ -20990,7 +20990,7 @@
               "HASC_1": "ES.CL",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "1A",
+              "GROUP": "1A",
               "GROUP_2": "2B"
             }
           },
@@ -21019,7 +21019,7 @@
               "HASC_1": "ES.CM",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "5B"
+              "GROUP": "5B"
             }
           },
           {
@@ -21047,7 +21047,7 @@
               "HASC_1": "ES.CT",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "3A"
+              "GROUP": "3A"
             }
           },
           {
@@ -21100,7 +21100,7 @@
               "HASC_1": "ES.MD",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "5A"
+              "GROUP": "5A"
             }
           },
           {
@@ -21122,7 +21122,7 @@
               "HASC_1": "ES.NA",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "2B"
+              "GROUP": "2B"
             }
           },
           {
@@ -21153,7 +21153,7 @@
               "HASC_1": "ES.VC",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "3B"
+              "GROUP": "3B"
             }
           },
           {
@@ -21175,7 +21175,7 @@
               "HASC_1": "ES.EX",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "5B"
+              "GROUP": "5B"
             }
           },
           {
@@ -21208,7 +21208,7 @@
               "HASC_1": "ES.GA",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "1A"
+              "GROUP": "1A"
             }
           },
           {
@@ -21249,7 +21249,7 @@
               "HASC_1": "ES.PM",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "3B",
+              "GROUP": "3B",
               "GROUP_2": "5A"
             }
           },
@@ -21321,7 +21321,7 @@
               "HASC_1": "ES.CN",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "4A"
+              "GROUP": "4A"
             }
           },
           {
@@ -21343,7 +21343,7 @@
               "HASC_1": "ES.LO",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "2B"
+              "GROUP": "2B"
             }
           },
           {
@@ -21372,7 +21372,7 @@
               "HASC_1": "ES.PV",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "2A"
+              "GROUP": "2A"
             }
           },
           {
@@ -21394,7 +21394,7 @@
               "HASC_1": "ES.AS",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "1B"
+              "GROUP": "1B"
             }
           },
           {
@@ -21416,7 +21416,7 @@
               "HASC_1": "ES.MU",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_1": "4A"
+              "GROUP": "4A"
             }
           }
         ]
