@@ -20886,7 +20886,10 @@
               "HASC_1": "ES.AN",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": ["4A", "4B"]
+              "GROUP": {
+                "group_1": "4A",
+                "group_2": "4B"
+              }
             }
           },
           {
@@ -20913,7 +20916,9 @@
               "HASC_1": "ES.AR",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "2B"
+              "GROUP": {
+                "group_1": "2B"
+              }
             }
           },
           {
@@ -20945,7 +20950,9 @@
               "HASC_1": "ES.CB",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "2A"
+              "GROUP": {
+                "group_1": "2A"
+              }
             }
           },
           {
@@ -20989,7 +20996,10 @@
               "HASC_1": "ES.CL",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": ["1A", "1B"]
+              "GROUP": {
+                "group_1": "1A",
+                "group_2": "2B"
+              }
             }
           },
           {
@@ -21017,7 +21027,9 @@
               "HASC_1": "ES.CM",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "5B"
+              "GROUP": {
+                "group_1": "5B"
+              }
             }
           },
           {
@@ -21045,7 +21057,9 @@
               "HASC_1": "ES.CT",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "3A"
+              "GROUP": {
+                "group_1": "3A"
+              }
             }
           },
           {
@@ -21098,7 +21112,9 @@
               "HASC_1": "ES.MD",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "5A"
+              "GROUP": {
+                "group_1": "5A"
+              }
             }
           },
           {
@@ -21120,7 +21136,9 @@
               "HASC_1": "ES.NA",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "2B"
+              "GROUP": {
+                "group_1": "2B"
+              }
             }
           },
           {
@@ -21151,7 +21169,9 @@
               "HASC_1": "ES.VC",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "3B"
+              "GROUP": {
+                "group_1": "3B"
+              }
             }
           },
           {
@@ -21173,7 +21193,9 @@
               "HASC_1": "ES.EX",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "5B"
+              "GROUP": {
+                "group_1": "5B"
+              }
             }
           },
           {
@@ -21206,7 +21228,9 @@
               "HASC_1": "ES.GA",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "1A"
+              "GROUP": {
+                "group_1": "1A"
+              }
             }
           },
           {
@@ -21247,7 +21271,10 @@
               "HASC_1": "ES.PM",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": ["3B", "5A"]
+              "GROUP": {
+                "group_1": "3B",
+                "group_2": "5A"
+              }
             }
           },
           {
@@ -21318,7 +21345,9 @@
               "HASC_1": "ES.CN",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "4A"
+              "GROUP": {
+                "group_1": "4A"
+              }
             }
           },
           {
@@ -21340,7 +21369,9 @@
               "HASC_1": "ES.LO",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "2B"
+              "GROUP": {
+                "group_1": "2B"
+              }
             }
           },
           {
@@ -21369,7 +21400,9 @@
               "HASC_1": "ES.PV",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "2A"
+              "GROUP": {
+                "group_1": "2A"
+              }
             }
           },
           {
@@ -21391,7 +21424,9 @@
               "HASC_1": "ES.AS",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "1B"
+              "GROUP": {
+                "group_1": "1B"
+              }
             }
           },
           {
@@ -21413,7 +21448,9 @@
               "HASC_1": "ES.MU",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP_2": "4B"
+              "GROUP_2": {
+                "group_1": "4A"
+              }
             }
           }
         ]
