@@ -20886,7 +20886,18 @@
               "HASC_1": "ES.AN",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": ["4A", "4B"]
+              "GROUP": "4A"
+            },
+            "properties": {
+              "ISO": "ESP",
+              "NAME_0": "Spain",
+              "ID_1": 935,
+              "NAME_1": "Andalucía",
+              "VARNAME_1": "Andalousie|Andaluc¡a|Andalusien|Andaluzia",
+              "HASC_1": "ES.AN",
+              "TYPE_1": "Comunidad Autónoma",
+              "ENGTYPE_1": "Autonomous Community",
+              "GROUP": "4B"
             }
           },
           {
@@ -21320,7 +21331,7 @@
               "HASC_1": "ES.CN",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": "4A"
+              "GROUP": "4B"
             }
           },
           {
