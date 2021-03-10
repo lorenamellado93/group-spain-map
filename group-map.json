@@ -20886,7 +20886,10 @@
               "HASC_1": "ES.AN",
               "TYPE_1": "Comunidad Autónoma",
               "ENGTYPE_1": "Autonomous Community",
-              "GROUP": ["4A", "4B"]
+              "GROUP": {
+                "1": "4A",
+                "2": "4B"
+              }
               
             }
           },
